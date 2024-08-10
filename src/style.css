@@ -1,0 +1,6 @@
+@media (min-width: 768px) {
+	[data-testid^="conversation-turn-"] > div > div,
+	.md\:max-w-3xl.lg\:max-w-\[40rem\].xl\:max-w-\[48rem\] {
+		max-width: 90%;
+	}
+}

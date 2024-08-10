@@ -6,6 +6,7 @@
 	"content_scripts": [
 		{
 			"matches": ["*://*.chatgpt.com/*"],
+			"css": ["src/style.css"],
 			"js": ["target/content.js"]
 		}
 	]

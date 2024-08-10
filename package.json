@@ -1,0 +1,8 @@
+{
+  "name": "ChatGPT_Controller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://GitHub/Hietan/ChatGPT_Controller",
+  "author": "Hietan <hietan622@gmail.com>",
+  "license": "MIT"
+}

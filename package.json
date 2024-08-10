@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "ssh://GitHub/Hietan/ChatGPT_Controller",
   "author": "Hietan <hietan622@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
 }
